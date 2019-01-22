@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "../node_modules/vis/dist/vis.css";
+#mynetwork {
+    width: 600px;
+    height: 400px;
+    border: 1px solid lightgray;
+}
